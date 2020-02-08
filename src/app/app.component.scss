@@ -1,0 +1,13 @@
+@import 'abstracts/variables';
+
+
+h1 {
+  color: $main-color;
+}
+
+.row {
+  .col-sm-6 {
+    color: $secondary-color;
+
+  }
+}
